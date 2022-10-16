@@ -1,1 +1,1 @@
-worker: npm start
+worker: node . --session 'oscar.data.json'
